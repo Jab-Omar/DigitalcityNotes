@@ -13,7 +13,7 @@ L'examen CCNA v1.0 (CCNA 200-301) est un examen de 120 minutes associé à la ce
   - [[Principes de virtualisation (machines virtuelles)]]
   - [[Concepts de commutation]]
 
-- ### 2. Accès au Réseau
+### 2. Accès au Réseau
   - [[Configuration et vérification des VLANs et de l'interconnexion entre switches]]
   - [[Protocoles de découverte de couche 2]]
   - [[Configuration et vérification d'EtherChannel]]
@@ -21,7 +21,7 @@ L'examen CCNA v1.0 (CCNA 200-301) est un examen de 120 minutes associé à la ce
   - [[Architectures et modes des AP Cisco]]
   - [[Connexions d'infrastructure physique des composants WLAN]]
 
-- ### 3. Connectivité IP
+### 3. Connectivité IP
   - [[Composants de la table de routage]]
   - [[Décision de transfert des routeurs par défaut]]
   - [[Configuration et vérification du routage statique IPv4 et IPv6]]
@@ -41,7 +41,7 @@ L'examen CCNA v1.0 (CCNA 200-301) est un examen de 120 minutes associé à la ce
   - [[Politiques de mots de passe sécurisés]]
   - [[Configurations des listes de contrôle d'accès (ACL)]]
 
-- ### 6. Automatisation et Programmabilité
+### 6. Automatisation et Programmabilité
   - [[Impact de l'automatisation sur la gestion réseau]]
   - [[Comparaison des réseaux traditionnels avec les réseaux basés sur contrôleur]]
   - [[Architectures basées sur contrôleur et définies par logiciel]]
