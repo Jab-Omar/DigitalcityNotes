@@ -7,6 +7,7 @@ title: Bienvenu dans mes notes !
 - [[Théorie CCNA ]]
 - [[Liste des protocoles]]
 - [[IOS Orienté CCNA]]
+- [[Agenda]] *(Pour les Absents)*
 
 ## Liens
 
