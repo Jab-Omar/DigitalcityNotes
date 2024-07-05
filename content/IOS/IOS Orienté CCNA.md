@@ -2,7 +2,7 @@
 
 ## 1. Introduction à Cisco IOS 
 
-- [[1.1 Présentation de Cisco IOS]]
+- [[1.1 Présentation de Cisco IOS]] ==inprogress==
 - [[1.2 Modes de fonctionnement d'IOS (mode utilisateur, mode privilégié)]]
 - [[1.3 Commandes de base d'IOS]]
 
