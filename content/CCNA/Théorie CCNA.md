@@ -5,8 +5,8 @@ L'examen CCNA v1.0 (CCNA 200-301) est un examen de 120 minutes associé à la ce
 
 ## Contenu de l'Examen (Points Importants)
 ###  1. Fondamentaux du Réseau
-  - [[Rôle et fonction des composants réseau]] ==(in progress)==
-  - [[Architectures de topologie réseau]]
+  - [[Rôle et fonction des composants réseau]] 
+  - [[Architectures de topologie réseau]] ==(in progress)==
   - [[Types d'interfaces physiques et câblage]]
   - [[Comparaison entre TCP et UDP]]
   - [[Configuration et vérification de l'adressage IPv4 et IPv6]]

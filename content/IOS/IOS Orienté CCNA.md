@@ -2,13 +2,13 @@
 
 ## 1. Introduction à Cisco IOS 
 
-- [[1.1 Présentation de Cisco IOS]] ==inprogress==
-- [[1.2 Modes de fonctionnement d'IOS (mode utilisateur, mode privilégié)]]
+- [[1.1 Présentation de Cisco IOS]] 
+- [[1.2 Modes de fonctionnement d'IOS]]
 - [[1.3 Commandes de base d'IOS]]
 
 ## 2. Configuration Initiale de Routeur Cisco
 
-- [[2.1 Configuration de base du routeur]]
+- [[2.1 Configuration de base du routeur]] ==inprogress==
 - [[2.2 Configuration de l'interface réseau]]
 - [[2.3 Configuration des mots de passe et de la sécurité]]
 

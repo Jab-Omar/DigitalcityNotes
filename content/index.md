@@ -10,6 +10,8 @@ title: Bienvenu dans mes notes !
 - [[Agenda]] *(Pour les Absents)*
 
 ## Liens
+## Sites
+- [CCNA Cheatsheet](https://www.geeksforgeeks.org/ccna-cheatsheet/)
 
 ### YouTube
 - [Free CCNA 200-301 | Complete Course 2023](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
@@ -19,7 +21,6 @@ title: Bienvenu dans mes notes !
 - [Flashcard Anki](https://ankiweb.net/shared/info/591991787)
 - Lien vers la page Notion d'Axel ==in progress==
 - Lien vers les Notes de Samet ==in progress==
-
 
 
 ## CheatSheet

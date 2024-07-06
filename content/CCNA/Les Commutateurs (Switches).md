@@ -1,6 +1,6 @@
 ## Introduction
 
-Les commutateurs (ou switches) sont des dispositifs essentiels dans les réseaux informatiques modernes. Leur rôle principal est de connecter et de gérer efficacement le trafic réseau au sein d'un réseau local (LAN). Comprendre leurs fonctionnalités, leur configuration et leur utilisation est crucial pour réussir l'examen CCNA.
+Les commutateurs (ou switches) sont des dispositifs essentiels dans les réseaux informatiques modernes. Leur rôle principal est de connecter et de gérer efficacement le trafic réseau au sein d'un réseau local (LAN).
 
 ## Fonctionnalités Principales
 
