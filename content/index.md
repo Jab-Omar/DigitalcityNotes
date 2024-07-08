@@ -10,8 +10,12 @@ title: Bienvenu dans mes notes !
 - [[Agenda]] *(Pour les Absents)*
 
 ## Liens
-## Sites
+
+
+### Sites
 - [CCNA Cheatsheet](https://www.geeksforgeeks.org/ccna-cheatsheet/)
+- [Examen Blanc](https://www.itexams.com/exam/200-301)
+- [Autre Exam Blanc](https://www.certyiq.com/papers?provider=cisco&exam=200-301&page=1)
 
 ### YouTube
 - [Free CCNA 200-301 | Complete Course 2023](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
