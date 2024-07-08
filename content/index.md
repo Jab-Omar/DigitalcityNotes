@@ -19,7 +19,7 @@ title: Bienvenu dans mes notes !
 
 ### Autres
 - [Flashcard Anki](https://ankiweb.net/shared/info/591991787)
-- Lien vers la page Notion d'Axel ==in progress==
+- [Lien vers la page Notion d'Axel]([https://www.notion.so/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6?pvs=4](https://www.notion.so/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6?pvs=4 "https://www.notion.so/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6?pvs=4"))
 - Lien vers les Notes de Samet ==in progress==
 
 
