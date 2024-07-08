@@ -1,4 +1,4 @@
-Les protocoles sont des liens cliquables mais je n'ai pas encore fini de rédiger des notes pour tout le tableau pour l'instant j'ai fini ([[HTTP]]; [[FTP]]) 
+Les protocoles sont des liens cliquables mais je n'ai pas encore fini de rédiger des notes pour tout le tableau.
 
 | Acronyme    | Numéro de Port |
 | ----------- | -------------- |
