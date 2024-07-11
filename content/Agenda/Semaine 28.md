@@ -24,3 +24,6 @@
 - Fin du module 6 Netacad Data Link Layer.
 
 ---
+
+## Mardi, 10th Juillet, 2024
+
