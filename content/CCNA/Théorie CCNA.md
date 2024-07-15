@@ -5,9 +5,7 @@
 ## 1.0 Fondamentaux du réseau (Network Fundamentals)
 ### 1.1 Expliquer le rôle et la fonction des composants réseau (network components)
 
-> [!NOTE] Expliquer le rôle et la fonction des composants réseau (network components)
->- [[1.1 Introduction]]
->- ---
+> [!note] [[Le rôle et la fonction des composants réseau]]
 >- [[1.1.a Routers (routeurs)]]
 >- [[1.1.b Switches de couche 2 et couche 3 (Layer 2 and Layer 3 switches)]]
 >- [[1.1.c Next-generation firewalls (pare-feux de nouvelle génération) et IPS]]
@@ -17,19 +15,25 @@
 >- [[1.1.g Servers (serveurs)]]
 >- [[1.1.h PoE (alimentation par Ethernet)]]
 
-### [[1.2 Décrire les caractéristiques des architectures de topologie réseau (network topology architectures)]]
-- [[1.2.a Two-tier (deux niveaux)]]
-- [[1.2.b Three-tier (trois niveaux)]]
-- [[1.2.c Spine-leaf]]
-- [[1.2.d WAN (réseau étendu)]]
-- [[1.2.e Small office/home office (SOHO) (petit bureau/bureau à domicile)]]
-- [[1.2.f On-premises (sur site) et cloud]]
+### 1.2 Décrire les caractéristiques des architectures de topologie réseau (network topology architectures)
 
-### [[1.3 Comparer les types d'interfaces physiques et de câblage]]
-- [[1.3.a Single-mode fiber (fibre monomode), multimode fiber (fibre multimode), copper (cuivre)]]
-- [[1.3.b Connections (connexions) (Ethernet shared media et point-to-point)]]
+>[!summary] [[Les caractéristiques des architectures de topologie réseau (network topology architectures)]]
+>- [[1.2.a Two-tier (deux niveaux)]]
+>- [[1.2.b Three-tier (trois niveaux)]]
+>- [[1.2.c Spine-leaf]]
+>- [[1.2.d WAN (réseau étendu)]]
+>- [[1.2.e Small office/home office (SOHO) (petit bureau/bureau à domicile)]]
+>- [[1.2.f On-premises (sur site) et cloud]]
 
-### [[1.4 Identifier les problèmes d'interface et de câblage (collisions, erreurs, mismatch duplex (duplex dépareillé) et/ou vitesse)]]
+### 1.3 Comparer les types d'interfaces physiques et de câblage
+
+>[!info] [[Les types d'interfaces physiques et de câblage]]
+>- [[1.3.a Single-mode fiber (fibre monomode), multimode fiber (fibre multimode), copper (cuivre)]]
+>- [[1.3.b Connections (connexions) (Ethernet shared media et point-to-point)]]
+
+### 1.4 Identifier les problèmes d'interface et de câblage (collisions, erreurs, mismatch duplex (duplex dépareillé) et/ou vitesse)
+
+>[!tip] [[Identifier les problèmes d'interface et de câblage (collisions, erreurs, mismatch duplex (duplex dépareillé) et/ou vitesse)]]
 
 ### [[1.5 Comparer TCP à UDP]]
 
