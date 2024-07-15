@@ -3,11 +3,16 @@ title: Bienvenu dans mes notes !
 ---
 # Map Of Content
 
+## Agenda
+
+| **Juillet**    |
+| -------------- |
+| [[Semaine 29]] |
+|                |
 ## Mes notes 
 - [[Théorie CCNA ]]
 - [[Liste des protocoles]]
 - [[IOS Orienté CCNA]]
-- [[Agenda]] *(Pour les Absents)*
 
 ## Liens
 
@@ -22,8 +27,7 @@ title: Bienvenu dans mes notes !
 
 ### Autres
 - [Flashcard Anki](https://ankiweb.net/shared/info/591991787)
-- [Lien vers la page Notion d'Axel]([https://www.notion.so/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6?pvs=4](https://www.notion.so/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6?pvs=4 "https://www.notion.so/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6?pvs=4"))
-- Lien vers les Notes de Samet ==in progress==
+- [Lien vers la page Notion d'Axel](https://shorthaired-nail-8b0.notion.site/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6)
 
 
 ## CheatSheet
