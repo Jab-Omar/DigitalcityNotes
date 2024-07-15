@@ -1,7 +1,6 @@
 # Théorie pour l'Examen CCNA v1.1 (200-301)
 
 
-
 ## 1.0 Fondamentaux du réseau (Network Fundamentals)
 ### 1.1 Expliquer le rôle et la fonction des composants réseau (network components)
 
@@ -31,13 +30,17 @@
 >- [[1.3.a Single-mode fiber (fibre monomode), multimode fiber (fibre multimode), copper (cuivre)]]
 >- [[1.3.b Connections (connexions) (Ethernet shared media et point-to-point)]]
 
-### 1.4 Identifier les problèmes d'interface et de câblage (collisions, erreurs, mismatch duplex (duplex dépareillé) et/ou vitesse)
+### 1.4 Identifier les problèmes d'interface et de câblage
 
->[!tip] [[Identifier les problèmes d'interface et de câblage (collisions, erreurs, mismatch duplex (duplex dépareillé) et/ou vitesse)]]
+>[!tip] [[Identifier les problèmes d'interface et de câblage (collisions, erreurs, mismatch duplex (duplex dépareillé) et_ou vitesse)]]
 
-### [[1.5 Comparer TCP à UDP]]
+### 1.5 Comparer TCP à UDP
 
-### [[1.6 Configurer et vérifier l'adressage IPv4 et le subnetting (sous-réseau)]]
+>[!Check] [[Comparer TCP à UDP]]
+
+### 1.6 Configurer et vérifier l'adressage IPv4 et le subnetting (sous-réseau)
+
+> [!example]  [[Configurer et vérifier l'adressage IPv4 et le subnetting (sous-réseau)]]
 
 ### [[1.7 Décrire l'adressage privé IPv4]]
 
@@ -64,6 +67,9 @@
 - [[1.13.b Frame switching (commutation de trames)]]
 - [[1.13.c Frame flooding (inondation de trames)]]
 - [[1.13.d MAC address table (table d'adresses MAC)]]
+
+---
+
 
 ## 2.0 Accès au réseau (Network Access)
 ### [[2.1 Configurer et vérifier les VLANs (normal range) (plage normale) sur plusieurs switches]]
