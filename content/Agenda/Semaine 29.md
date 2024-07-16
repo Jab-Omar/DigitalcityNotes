@@ -28,7 +28,7 @@
 ### Après-midi :
 - On a fait un kahoot qui reprend la matière du module Netacad 11.
 - On a fait le labo 11.6.6 lab - calculate ipv4 subnets [Lien vers le labo](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing)
-- Correction du lab 11.6.6 - calculate ipv4 subnets [Lien vers le labo](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing)
+- Correction du lab 11.6.6 - calculate ipv4 subnets [Lien vers correction](https://itexamanswers.net/11-6-6-lab-calculate-ipv4-subnets-answers.html)
 
 ---
 
