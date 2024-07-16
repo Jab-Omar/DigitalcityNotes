@@ -19,16 +19,27 @@
 ---
 
 ## Mardi, 16 juillet, 2024
-### Matin:
-- Quizz du matin pour s'échauffer en lien avec la matière vue hier.
-- Quizz sur les vlan une matière qu'on verra plus tard.
-- Nous avons suivi les slides BT training d'olivier nous sommes arrivé à la slide 144. [Lien vers le Powerpoint](https://docs.google.com/presentation/d/1sa4gsBCzccR0YqUPL9OwHZvG8lGoAeyA/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)
-- Netacad module 11
+### Matin :
+- Quizz du matin pour s'échauffer, basé sur la matière vue hier.
+- Quizz sur les VLAN, une matière que nous aborderons plus tard.
+- Nous avons suivi les slides BT Training d'Olivier. Nous sommes arrivés à la slide 144. [Lien vers le PowerPoint](https://docs.google.com/presentation/d/1sa4gsBCzccR0YqUPL9OwHZvG8lGoAeyA/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)
+- Netacad module 11.
 
 ### Après-midi :
-- On a fait un kahoot qui reprend la matière du module Netacad 11.
-- On a fait le labo 11.6.6 lab - calculate ipv4 subnets [Lien vers le labo](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing)
-- Correction du lab 11.6.6 - calculate ipv4 subnets [Lien vers correction](https://itexamanswers.net/11-6-6-lab-calculate-ipv4-subnets-answers.html)
+- Nous avons fait un Kahoot qui reprend la matière du module Netacad 11.
+- Nous avons fait le laboratoire 11.6.6 Lab - Calculer des sous-réseaux IPv4. [Lien vers le laboratoire](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing)
+- Correction du laboratoire 11.6.6 - Calculer des sous-réseaux IPv4. [Lien vers la correction](https://itexamanswers.net/11-6-6-lab-calculate-ipv4-subnets-answers.html)
 
 ---
+
+## Mercredi, 17 juillet, 2024
+- Journée de self-study
+
+---
+
+## Jeudi, 18 juillet, 2024
+
+### Matin: 
+
+### Après-midi :
 
