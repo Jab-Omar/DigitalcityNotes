@@ -3,17 +3,30 @@ title: Bienvenu dans mes notes !
 ---
 # Map Of Content
 
+---
+
 ## Agenda
 
 | **Juillet**    |
 | -------------- |
 | [[Semaine 29]] |
 |                |
+
+---
 ## Mes notes 
-- [[Théorie CCNA ]]
+
+### Théorie pour l'Examen CCNA v1.1 (200-301)
+- [[1.0 Fondamentaux du réseau (Network Fundamentals)]]
+- [[2.0 Accès au réseau (Network Access)]]
+- [[3.0 Connectivité IP (IP Connectivity)]]
+- [[4.0 Services IP (IP Services)]]
+- [[5.0 Fondamentaux de la sécurité (Security Fundamentals)]]
+- [[6.0 Automatisation et programmabilité (Automation and Programmability)]]
+### Autres
 - [[Liste des protocoles]]
 - [[IOS Orienté CCNA]]
 
+---
 ## Liens
 
 ### Sites
@@ -29,7 +42,7 @@ title: Bienvenu dans mes notes !
 - [Flashcard Anki](https://ankiweb.net/shared/info/591991787)
 - [Lien vers la page Notion d'Axel](https://shorthaired-nail-8b0.notion.site/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6)
 
-
+---
 ## CheatSheet
 
 ### IOS 

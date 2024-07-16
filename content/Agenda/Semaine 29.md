@@ -20,8 +20,14 @@
 
 ## Mardi, 16 juillet, 2024
 ### Matin:
+- Quizz du matin pour s'échauffer en lien avec la matière vue hier.
+- Quizz sur les vlan une matière qu'on verra plus tard.
+- Nous avons suivi les slides BT training d'olivier nous sommes arrivé à la slide 144. [Lien vers le Powerpoint](https://docs.google.com/presentation/d/1sa4gsBCzccR0YqUPL9OwHZvG8lGoAeyA/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)
+- Netacad module 11
 
 ### Après-midi :
+- On a fait un kahoot qui reprend la matière du module Netacad 11.
+- On a fait le labo 11.6.6 lab - calculate ipv4 subnets [Lien vers le labo](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing)
 
 ---
 
