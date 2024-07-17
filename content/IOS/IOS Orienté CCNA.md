@@ -8,8 +8,8 @@
 
 ## 2. Configuration Initiale de Routeur Cisco
 
-- [[2.1 Configuration de base du routeur]] ==inprogress==
-- [[2.2 Configuration de l'interface réseau]]
+- [[2.1 Configuration de base du routeur]] 
+- [[2.2 Configuration de l'interface réseau]]==inprogress==
 - [[2.3 Configuration des mots de passe et de la sécurité]]
 
 ## 3. Gestion des Fichiers et Sauvegarde de la Configuration
