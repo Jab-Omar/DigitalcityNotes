@@ -1,14 +1,14 @@
 
 ## Lundi, 15 juillet, 2024
 
-### Matin
+### Matin :
 
 - On a fait un quiz pour s’échauffer.
 - Netacad fin du Module 9 : Résolution d'adresse.
 - Netacad début du Module 10 : Configuration de base du routeur.
 - Nous avons parcouru un document créé par Olivier : IPv4 vs IPv6 (résumé du 12 juillet). [Le lien vers le document](https://docs.google.com/document/d/1vTqv1-AuHMY55-_n4yB7KTTKyNUV0V5g/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)
 
-### Après-midi
+### Après-midi :
 
 - Nous avons fait le labo Packet Tracer - Configure Initial Router Settings. [Lien vers le labo](https://drive.google.com/file/d/1spvCrb9a-OsFz-7DEM67XGdAzjcg8zqu/view?usp=sharing)
 - Netacad fin du Module 10 : Configuration de base du routeur.
@@ -19,13 +19,13 @@
 ---
 
 ## Mardi, 16 juillet, 2024
-### Matin
+### Matin :
 - Quizz du matin pour s'échauffer, basé sur la matière vue hier.
 - Quizz sur les VLAN, une matière que nous aborderons plus tard.
 - Nous avons suivi les slides BT Training d'Olivier. Nous sommes arrivés à la slide 144. [Lien vers le PowerPoint](https://docs.google.com/presentation/d/1sa4gsBCzccR0YqUPL9OwHZvG8lGoAeyA/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)
 - Netacad module 11.
 
-### Après-midi
+### Après-midi :
 - Nous avons fait un Kahoot qui reprend la matière du module Netacad 11.
 - Nous avons fait le laboratoire 11.6.6 Lab - Calculer des sous-réseaux IPv4. [Lien vers le laboratoire](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing)
 - Correction du laboratoire 11.6.6 - Calculer des sous-réseaux IPv4. [Lien vers la correction](https://itexamanswers.net/11-6-6-lab-calculate-ipv4-subnets-answers.html)
@@ -39,15 +39,7 @@
 
 ## Jeudi, 18 juillet, 2024
 
-### Matin
-- Nous avons refait le laboratoire 11.6.6 Lab - Calculer des sous-réseaux IPv4. [Lien vers le laboratoire](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing) mais cette fois-ci avec le professeur. + Théorie sur le subnetting.
+### Matin: 
 
-### Après-midi
+### Après-midi :
 
-- Samet nous a expliqué la théorie sur le subnetting à sa façon.
-- Ali nous a expliqué la théorie sur le subnetting à sa façon.
-- Olivier nous à présenté un subnet calculator : [Visual Subnet Calculator (davidc.net)](https://www.davidc.net/sites/default/subnets/subnets.html)
-- Netacad fin module 11.7. (Subnet to Meet Requirements)
-- Netacad on est arrivé au module 11.8.2 (VLSM).
-
----
