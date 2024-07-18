@@ -40,6 +40,10 @@
 ## Jeudi, 18 juillet, 2024
 
 ### Matin: 
+- Nous avons refait le laboratoire 11.6.6 Lab - Calculer des sous-réseaux IPv4. [Lien vers le laboratoire](https://drive.google.com/file/d/1MF12IRk5S3jPsoJfSFIE-vxvPKCthcLb/view?usp=sharing) mais cette fois-ci avec le professeur. + Théorie sur le subnetting.
 
 ### Après-midi :
 
+- Samet nous a expliqué la théorie sur le subnetting à sa façon.
+- Ali nous a expliqué la théorie sur le subnetting à sa façon.
+- Olivier nous à présenté un subnet calculator : [Visual Subnet Calculator (davidc.net)](https://www.davidc.net/sites/default/subnets/subnets.html)
