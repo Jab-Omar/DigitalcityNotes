@@ -47,6 +47,7 @@
 - Samet nous a expliqué la théorie sur le subnetting à sa façon.
 - Ali nous a expliqué la théorie sur le subnetting à sa façon.
 - Olivier nous à présenté un subnet calculator : [Visual Subnet Calculator (davidc.net)](https://www.davidc.net/sites/default/subnets/subnets.html)
-- Netacad module 11.7.
+- Netacad fin module 11.7. (Subnet to Meet Requirements)
+- Netacad on est arrivé au module 11.8.2 (VLSM).
 
 ---
