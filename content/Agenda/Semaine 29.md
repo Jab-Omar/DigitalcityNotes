@@ -51,3 +51,10 @@
 ---
 
 ## Vendredi, 19 juillet, 2024
+### Matin
+- Olivier à présenter la matière à étudier pour le test de mardi. 
+- Mohamed à fait un exercice sur le subnetting au tableau.
+- J'ai fait un exercice sur le subnetting au tableau.
+- Ali a fait un exercice sur le subnetting au tableau.
+- Self-Study
+### Après-midi
