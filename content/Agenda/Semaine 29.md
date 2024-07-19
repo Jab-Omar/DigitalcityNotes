@@ -52,9 +52,14 @@
 
 ## Vendredi, 19 juillet, 2024
 ### Matin
-- Olivier à présenter la matière à étudier pour le test de mardi. 
+- Olivier à présenter la matière à étudier pour le test de mardi.  [Lien vers la matière](https://docs.google.com/document/d/1vfrkWH5XIeEDlgHSeENWgivrUwB8uz31/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)
 - Mohamed à fait un exercice sur le subnetting au tableau.
 - J'ai fait un exercice sur le subnetting au tableau.
 - Ali a fait un exercice sur le subnetting au tableau.
 - Self-Study
 ### Après-midi
+- Anouar à fait un exercice de subnetting au tableau.
+- Netacad Fin du module 11.8.2 (VLSM).
+- Nous avons fait le Labo 11.9.3-packet-tracer---vlsm-design-and-implementation-practice [Lien vers le labo](https://drive.google.com/file/d/1UXmuSffXzWS8H5_P5Ce6YAW1wCrTUXH-/view?usp=sharing)
+
+---
