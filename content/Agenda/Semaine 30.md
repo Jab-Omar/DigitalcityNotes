@@ -9,3 +9,17 @@
 - Nous avons fini le Module 12 : Ipv6 Addressing.
 
 ---
+## Lundi, 22 juillet, 2024
+### Matin
+- Nous avons vu le laboratoire à préparer.
+- Olivier à pris le temps avec chacun d'entre nous pour faire le point.
+### Après-midi
+- Nous avons revu le module 12 sur les ipv6.
+- Nous avons fait le module Netacad 13 ICMP.
+
+---
+
+## Mardi, 22 juillet, 2024
+### Matin
+
+### Après-midi
