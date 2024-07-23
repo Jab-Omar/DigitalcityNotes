@@ -41,6 +41,7 @@ title: Bienvenu dans mes notes !
 ### Autres
 - [Flashcard Anki](https://ankiweb.net/shared/info/591991787)
 - [Lien vers la page Notion d'Axel](https://shorthaired-nail-8b0.notion.site/Cisco-Packet-Tracer-7f7a70912c68406db2603bf7be42e4a6)
+- [Sites pour la recherche d'emploi](https://drive.google.com/file/d/1Bp4HfOuKWhvMTlTVIer5Z5lg5OQJGzdT/view?usp=sharing)
 
 ---
 ## CheatSheet
