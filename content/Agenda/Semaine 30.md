@@ -9,7 +9,7 @@
 - Nous avons fini le Module 12 sur Netacad : Ipv6 Addressing.
 
 ---
-## Lundi, 22 juillet, 2024
+## Mardi, 23 juillet, 2024
 ### Matin
 - Nous avons vu le laboratoire à préparer.
 - Olivier à pris le temps avec chacun d'entre nous pour faire le point.
@@ -19,7 +19,7 @@
 
 ---
 
-## Mardi, 22 juillet, 2024
+## Mercredi, 22 juillet, 2024
 ### Matin
 
 ### Après-midi
