@@ -21,5 +21,10 @@
 
 ## Mercredi, 22 juillet, 2024
 ### Matin
+- Nous avons parcouru en surface la matière vue depuis le début. [Lien vers la ressource](https://docs.google.com/document/d/1CiUos4LwHhDxdX6WRR167N_Fv7B_cEi_/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true) 
+- David à pris du temps avec nous pour discuter de la formation.
 
 ### Après-midi
+- Nous avons lu le résumé d'Olivier sur le module 12 IPv6 []()
+- Nous avons fait un Kahoot sur le module 1 à 3.
+- Introduction au protocol RIP.
