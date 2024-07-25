@@ -42,3 +42,5 @@
 - Sabrina nous a présentée son labo sur RIP.
 - Nous avons refait un kahoot sur les module 8 - 10.
 - Self-study.
+
+---
