@@ -28,3 +28,14 @@
 - Nous avons lu le résumé d'Olivier sur le module 12 IPv6 []()
 - Nous avons fait un Kahoot sur le module 1 à 3.
 - Introduction au protocol RIP.
+
+---
+
+## Mercredi, 22 juillet, 2024
+### Matin
+- Self-study
+- Nous avons fait kahoot sur les module 8 - 10.
+### Après-midi
+- Nous avons parcouru les document Processus de boot d'un routeur.
+- Olivier nous a montré des flashcards Anki.
+- Olivier nous a présenté une synthèse de RIP.
