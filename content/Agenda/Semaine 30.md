@@ -19,7 +19,7 @@
 
 ---
 
-## Mercredi, 22 juillet, 2024
+## Mercredi, 24 juillet, 2024
 ### Matin
 - Nous avons parcouru en surface la matière vue depuis le début. [Lien vers la ressource](https://docs.google.com/document/d/1CiUos4LwHhDxdX6WRR167N_Fv7B_cEi_/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true) 
 - David à pris du temps avec nous pour discuter de la formation.
@@ -31,11 +31,14 @@
 
 ---
 
-## Mercredi, 22 juillet, 2024
+## Jeudi, 25 juillet, 2024
 ### Matin
-- Self-study
+- Self-study.
 - Nous avons fait kahoot sur les module 8 - 10.
 ### Après-midi
-- Nous avons parcouru les document Processus de boot d'un routeur.
+- Nous avons parcouru les document Processus de boot d'un routeur. [Lien vers le document](https://docs.google.com/document/d/1VLS20RjutYPvg9I9iq-oqhYddxmRhdHk/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)
 - Olivier nous a montré des flashcards Anki.
 - Olivier nous a présenté une synthèse de RIP.
+- Sabrina nous a présentée son labo sur RIP.
+- Nous avons refait un kahoot sur les module 8 - 10.
+- Self-study.
