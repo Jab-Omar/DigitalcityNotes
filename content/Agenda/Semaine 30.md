@@ -44,3 +44,12 @@
 - Self-study.
 
 ---
+## Vendredi, 26 juillet, 2024
+### Matin
+- Nous avons fait un kahoot crée par Olivier.
+- Self-study
+### Après-midi
+- Self study
+- On a fait plein de kahoot.
+
+---
