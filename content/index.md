@@ -16,7 +16,8 @@ title: Bienvenu dans mes notes !
 ---
 ## Mes notes 
 ### Netacad
-1. [[Networking Today]]
+1. [[Les réseaux aujourd'hui]]
+2. [[Configuration de base IOS]]
 ### Autres
 - [[Liste des protocoles]]
 - [[IOS Orienté CCNA]]

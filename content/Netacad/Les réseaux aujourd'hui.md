@@ -1,6 +1,6 @@
-# Networking Today
+# Les réseaux aujourd'hui
 
-**[[#Résumé du Module Concepts Réseau (Network Concepts Summary)| Résumé]]**⬇️ -  **[[Basic Switch and End Device Configuration]]**➡️ - **[Flashcard Anki]()**🃏
+**[[#Résumé du Module Concepts Réseau (Network Concepts Summary)| Résumé]]**⬇️ -  **[[Configuration de base IOS]]**➡️ - **[Flashcard Anki](https://drive.google.com/file/d/1cp5g3PVQ6MEbcdWbVDAqaMVvIBHitbLW/view?usp=sharing)**🃏
 
 --- 
 
@@ -406,3 +406,4 @@ La certification **Cisco Certified Network Associate (CCNA)** atteste des compé
 
 ---
 
+**[[#Les réseaux aujourd'hui|Retour]]** ⬆️ - **[[Configuration de base IOS]]**➡️
