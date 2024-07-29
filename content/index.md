@@ -15,14 +15,8 @@ title: Bienvenu dans mes notes !
 
 ---
 ## Mes notes 
-
-### Théorie pour l'Examen CCNA v1.1 (200-301)
-- [[1.0 Fondamentaux du réseau (Network Fundamentals)]]
-- [[2.0 Accès au réseau (Network Access)]]
-- [[3.0 Connectivité IP (IP Connectivity)]]
-- [[4.0 Services IP (IP Services)]]
-- [[5.0 Fondamentaux de la sécurité (Security Fundamentals)]]
-- [[6.0 Automatisation et programmabilité (Automation and Programmability)]]
+### Netacad
+1. [[Networking Today]]
 ### Autres
 - [[Liste des protocoles]]
 - [[IOS Orienté CCNA]]
