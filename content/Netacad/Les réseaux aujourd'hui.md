@@ -406,4 +406,4 @@ La certification **Cisco Certified Network Associate (CCNA)** atteste des compé
 
 ---
 
-**[[#Les réseaux aujourd'hui|Retour]]** ⬆️ - **[[Configuration de base IOS]]**➡️
+[[#Les réseaux aujourd'hui|Retour]] ⬆️ - [[Configuration de base IOS]]➡️

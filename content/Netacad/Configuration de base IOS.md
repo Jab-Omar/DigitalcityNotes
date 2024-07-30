@@ -504,4 +504,4 @@ Une fois ces commandes exécutées, le commutateur sera configuré pour communiq
     - `ping` : Teste la connectivité vers un autre périphérique sur le réseau ou vers un site web.
 
 ---
-**[[Les réseaux aujourd'hui]]**⬅️ - **[[#Configuration de base IOS|Retour]]**⬆️ - **[[Modèles et protocoles]]**➡️
+[[Les réseaux aujourd'hui]]⬅️ - [[#Configuration de base IOS|Retour]]⬆️ - [[Modèles et protocoles]]➡️
