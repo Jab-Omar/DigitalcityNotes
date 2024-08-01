@@ -4,7 +4,13 @@
 [[Modèles et protocoles]]⬅️ - [[#Résumé|Résumé]]⬇️ - [[]]➡️ - []()🃏
 
 ---
-
+## Table des Matières
+- [[#Objectif de la Couche Physique]]
+- [[#Caractéristiques de la Couche Physique]]
+- [[#Câblage en Cuivre]]
+- [[#Câblage en Fibre Optique]]
+- [[#Médias Sans Fil]]
+- [[#Résumé]]
 
 ## Objectif de la Couche Physique
 
@@ -460,3 +466,5 @@ Les normes sans fil comprennent :
 Un réseau local sans fil (WLAN) nécessite un point d'accès sans fil et des adaptateurs NIC sans fil.
 
 ---
+
+[[Modèles et protocoles]]⬅️ - [[#Couche Physique (Physical Layer)|Retour]]⬆️ - [[]]➡️
