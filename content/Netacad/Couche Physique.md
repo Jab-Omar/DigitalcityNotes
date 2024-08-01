@@ -12,6 +12,9 @@
 - [[#Médias Sans Fil]]
 - [[#Résumé]]
 
+---
+
+
 ## Objectif de la Couche Physique
 
 ### La Connexion Physique

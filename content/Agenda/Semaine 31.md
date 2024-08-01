@@ -17,8 +17,16 @@
 
 ---
 ## Jeudi, 01 août, 2024 
+
 ### Matin
 - Présentation du planning du jour. 
 - Nous avons fait un Kahoot sur les puissances de 2 et le subnetting. [Lien vers le Kahoot](https://create.kahoot.it/details/c85deeee-4ff6-4629-9702-f2a33f9835dc)
 - Nous avons fait un kahoot sur les méthode de switching. 
 - Nous avons fait des questions type examen CCNA.
+- Nous avons vu le module "Netacad 14 Transport Layer".  
+
+### Après-midi
+
+
+
+---

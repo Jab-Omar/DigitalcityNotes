@@ -20,6 +20,8 @@ title: Bienvenu dans mes notes !
 2. [[Configuration de base IOS]]
 3. [[Modèles et protocoles]]
 4. [[Couche Physique]]
+
+14. [[Couche de Transport]]
 ### Autres
 - [[Liste des protocoles]]
 
