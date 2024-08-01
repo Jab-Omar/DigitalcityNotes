@@ -19,6 +19,7 @@ title: Bienvenu dans mes notes !
 1. [[Les réseaux aujourd'hui]]
 2. [[Configuration de base IOS]]
 3. [[Modèles et protocoles]]
+4. [[Couche Physique]]
 ### Autres
 - [[Liste des protocoles]]
 
