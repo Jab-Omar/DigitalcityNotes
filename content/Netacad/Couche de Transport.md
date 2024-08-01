@@ -106,10 +106,6 @@ graph TB;
 *Ce diagramme résume les différences entre UDP et TCP, soulignant les avantages et les inconvénients de chaque protocole.*
 
 ---
-Voici une version améliorée et plus pédagogique de tes notes sur TCP, avec une meilleure fluidité, des clarifications et des schémas Mermaid intégrés. J'ai également veillé à respecter ta demande concernant les traductions et la terminologie. 
-
----
-
 ## Vue d'Ensemble de TCP
 
 Dans le sujet précédent, tu as appris que TCP (Transmission Control Protocol) et UDP (User Datagram Protocol) sont les deux principaux protocoles de la couche de transport. Ce sujet fournit plus de détails sur le fonctionnement de TCP et les situations où il est préférable de l'utiliser plutôt qu'UDP.
@@ -215,9 +211,7 @@ graph TD;
 *Ce diagramme résume les caractéristiques clés d'UDP et les types d'applications qui en tirent parti.*
 
 ---
-Voici une version améliorée de tes notes sur les numéros de port, avec des clarifications, une structure fluide, et des schémas Mermaid pour mieux visualiser les concepts.
 
----
 ## Numéros de Port
 
 ### Communications Multiples et Séparées
@@ -270,19 +264,19 @@ L'**Internet Assigned Numbers Authority (IANA)** est responsable de l'attributio
 
 #### Exemples de Ports Bien Connus
 
-| Numéro de Port | Protocole  | Application                                   |
-|----------------|------------|-----------------------------------------------|
-| 20             | TCP        | FTP (Données)                                |
-| 21             | TCP        | FTP (Contrôle)                               |
-| 22             | TCP        | SSH (Secure Shell)                           |
-| 23             | TCP        | Telnet                                        |
-| 25             | TCP        | SMTP (Simple Mail Transfer Protocol)         |
-| 53             | UDP, TCP   | DNS (Domain Name System)                     |
-| 67             | UDP        | DHCP (Serveur)                               |
-| 68             | UDP        | DHCP (Client)                                |
-| 69             | UDP        | TFTP (Trivial File Transfer Protocol)        |
-| 80             | TCP        | HTTP (Hypertext Transfer Protocol)           |
-| 443            | TCP        | HTTPS (HTTP Secure)                          |
+| Numéro de Port | Protocole | Application                           |
+| -------------- | --------- | ------------------------------------- |
+| 20             | TCP       | FTP (Données)                         |
+| 21             | TCP       | FTP (Contrôle)                        |
+| 22             | TCP       | SSH (Secure Shell)                    |
+| 23             | TCP       | Telnet                                |
+| 25             | TCP       | SMTP (Simple Mail Transfer Protocol)  |
+| 53             | UDP, TCP  | DNS (Domain Name System)              |
+| 67             | UDP       | DHCP (Serveur)                        |
+| 68             | UDP       | DHCP (Client)                         |
+| 69             | UDP       | TFTP (Trivial File Transfer Protocol) |
+| 80             | TCP       | HTTP (Hypertext Transfer Protocol)    |
+| 443            | TCP       | HTTPS (HTTP Secure)                   |
 
 Certaines applications, comme DNS, utilisent UDP pour les requêtes, mais passent à TCP pour les communications entre serveurs si les réponses dépassent une certaine taille.
 
@@ -350,18 +344,15 @@ graph TD;
 
 ### Établissement de Connexion TCP
 
-L’établissement d'une connexion TCP peut être comparé à une salutation, et se fait par le biais d'un processus connu sous le nom de **poignée de main en trois étapes**.
+L’établissement d'une connexion TCP se fait par le biais d'un processus connu sous le nom de **poignée de main en trois étapes**.
 
 #### Étape 1 : SYN
 
-Le client (Client 1) envoie un segment **SYN** au serveur pour demander l'établissement d'une session. Cela permet de vérifier la disponibilité de l'hôte de destination.
+Le client (Client 1) envoie un segment **SYN** au serveur pour demander l'établissement d'une session.
 
 ```mermaid
-sequenceDiagram;
-    participant Client as Client1
-    participant Serveur as Serveur
-
-    Client1->>Serveur: SYN (Demande de connexion)
+flowchart TD
+    A[Client 1] -->|SYN Demande de connexion| B[Serveur]
 ```
 
 #### Étape 2 : SYN-ACK
@@ -369,12 +360,8 @@ sequenceDiagram;
 Le serveur répond avec un segment **SYN-ACK**, confirmant qu'il est prêt à établir la connexion.
 
 ```mermaid
-sequenceDiagram;
-    participant Client as Client1
-    participant Serveur as Serveur
-
-    Client1->>Serveur: SYN
-    Serveur->>Client1: SYN-ACK (Confirmation de disponibilité)
+flowchart TD
+    A[Serveur] -->|SYN-ACK Confirmation de disponibilité| B[Client 1]
 ```
 
 #### Étape 3 : ACK
@@ -382,11 +369,8 @@ sequenceDiagram;
 Le client envoie un segment **ACK** pour finaliser l'établissement de la connexion.
 
 ```mermaid
-sequenceDiagram;
-    participant Client as Client1
-    participant Serveur as Serveur
-
-    Client1->>Serveur: ACK (Connexion établie)
+flowchart TD
+    A[Client 1] -->|ACK Connexion établie| B[Serveur]
 ```
 
 #### Résumé de la Poignée de Main
@@ -394,14 +378,13 @@ sequenceDiagram;
 Le processus complet de la poignée de main en trois étapes se résume ainsi :
 
 ```mermaid
-sequenceDiagram;
-    participant Client as Client1
-    participant Serveur as Serveur
-
-    Client1->>Serveur: SYN
-    Serveur->>Client1: SYN-ACK
-    Client1->>Serveur: ACK
+flowchart TD
+    A[Client 1] -->|SYN| B[Serveur]
+    B -->|SYN-ACK| A
+    A -->|ACK| B
 ```
+
+---
 
 ### Terminaison de Session
 
@@ -412,11 +395,8 @@ Pour fermer une connexion TCP, un processus de terminaison est nécessaire, impl
 Lorsque le client n’a plus de données à envoyer, il envoie un segment **FIN** au serveur.
 
 ```mermaid
-sequenceDiagram;
-    participant Client as Client1
-    participant Serveur as Serveur
-
-    Client1->>Serveur: FIN (Demande de terminaison)
+flowchart TD
+    A[Client 1] -->|FIN Demande de terminaison| B[Serveur]
 ```
 
 #### Étape 2 : ACK
@@ -424,12 +404,9 @@ sequenceDiagram;
 Le serveur répond avec un segment **ACK**, accusant réception de la demande de terminaison. Ensuite, le serveur envoie également un segment **FIN** pour terminer sa propre session.
 
 ```mermaid
-sequenceDiagram;
-    participant Client as Client1
-    participant Serveur as Serveur
-
-    Serveur->>Client1: FIN (Demande de terminaison)
-    Client1->>Serveur: ACK (Terminaison confirmée)
+flowchart TD
+    A[Serveur] -->|ACK| B[Client 1]
+    A -->|FIN Demande de terminaison| B
 ```
 
 #### Résumé de la Terminaison
@@ -437,15 +414,13 @@ sequenceDiagram;
 Le processus complet de terminaison de session se déroule comme suit :
 
 ```mermaid
-sequenceDiagram;
-    participant Client as Client1
-    participant Serveur as Serveur
-
-    Client1->>Serveur: FIN
-    Serveur->>Client1: ACK
-    Serveur->>Client1: FIN
-    Client1->>Serveur: ACK
+flowchart TD
+    A[Client 1] -->|FIN| B[Serveur]
+    B -->|ACK| A
+    B -->|FIN| A
+    A -->|ACK| B
 ```
+
 
 ### Analyse de la Poignée de Main en Trois Étapes
 
@@ -487,82 +462,136 @@ flowchart TD;
 ```
 
 ---
+## Fiabilité TCP - Livraison Garantie et Ordonnée
 
-## Fiabilité et Contrôle de Flux TCP
+Le **Transmission Control Protocol** (TCP) est souvent considéré comme le protocole de choix pour de nombreuses applications, car, contrairement à l'**User Datagram Protocol** (UDP), il garantit la livraison des paquets perdus et les numérote pour maintenir leur ordre correct avant la livraison. TCP aide également à gérer le flux de paquets afin d’éviter que les appareils ne soient submergés. 
 
-### Fiabilité TCP - Livraison Garantie et Ordonnée
+### Caractéristiques de la Fiabilité TCP
 
-TCP est souvent considéré comme le meilleur protocole pour certaines applications, car contrairement à UDP, il renvoie les paquets perdus et numérote les paquets pour indiquer leur ordre correct avant livraison. TCP aide également à maintenir le flux de paquets afin d’éviter que les appareils ne soient submergés. Cette section couvre ces caractéristiques de TCP en détail.
+Il peut arriver que des segments TCP n’arrivent pas à destination ou qu’ils arrivent dans le désordre. Pour que le message original soit compris par le destinataire, toutes les données doivent être reçues et réassemblées dans l’ordre d’origine. Pour atteindre cet objectif, chaque paquet TCP inclut un **numéro de séquence** (Sequence Number) qui représente le premier octet de données dans le segment.
 
-Il peut arriver que des segments TCP n’arrivent pas à destination ou qu’ils arrivent dans le désordre. Pour que le message original soit compris par le destinataire, toutes les données doivent être reçues et réassemblées dans l’ordre d’origine. Des numéros de séquence sont attribués dans l’en-tête de chaque paquet pour atteindre cet objectif. Le numéro de séquence représente le premier octet de données du segment TCP.
+Lors de l'établissement d'une session, un **numéro de séquence initial** (ISN - Initial Sequence Number) est défini. Cet ISN sert de point de départ pour les octets transmis à l'application réceptrice. Au fur et à mesure que les données sont envoyées, le numéro de séquence est incrémenté en fonction du nombre d'octets transmis. Ce suivi permet d’identifier chaque segment de manière unique, facilitant ainsi la détection des segments manquants.
 
-Lors de la configuration de la session, un numéro de séquence initial (ISN) est défini. Cet ISN représente la valeur de départ des octets transmis à l'application réceptrice. Au fur et à mesure que les données sont transmises pendant la session, le numéro de séquence est incrémenté en fonction du nombre d'octets transmis. Ce suivi des octets de données permet d’identifier et d’accuser de réception chaque segment de manière unique. Les segments manquants peuvent alors être identifiés.
+L’ISN ne commence pas à 1, mais est en réalité un nombre aléatoire pour prévenir certaines attaques. Pour simplifier, nous utiliserons un ISN de 1 dans nos exemples.
 
-L’ISN ne commence pas à un, mais est effectivement un nombre aléatoire pour prévenir certains types d’attaques malveillantes. Pour simplifier, nous utiliserons un ISN de 1 pour les exemples dans ce chapitre.
+Les numéros de séquence permettent également de réassembler et réordonner les segments reçus. Même si les segments prennent des chemins différents et arrivent dans le désordre, TCP peut les réordonner à destination.
 
-Les numéros de séquence des segments indiquent comment réassembler et réordonner les segments reçus. Les segments peuvent prendre des routes différentes et arriver dans le désordre, mais TCP a la capacité de les réordonner à destination.
+```mermaid
+flowchart TD
+    A[Segments TCP] --> B{Arrivée à Destination}
+    B -->|Dans l'ordre| C[Transmission à l'application]
+    B -->|Hors ordre| D[Conservation pour traitement ultérieur]
+```
 
-Le processus TCP réceptif place les données d'un segment dans un tampon de réception. Les segments sont ensuite placés dans le bon ordre séquentiel et transmis à la couche d'application une fois réassemblés. Les segments qui arrivent avec des numéros de séquence dans le désordre sont conservés pour un traitement ultérieur. Lorsque les segments avec les octets manquants arrivent, ces segments sont traités dans l'ordre.
+## Fiabilité TCP - Perte de Données et Rétransmission
 
-### Fiabilité TCP - Perte de Données et Rétransmission
+La perte de données est inévitable, même sur des réseaux de bonne qualité. TCP met en œuvre des mécanismes pour gérer ces pertes, notamment un **mécanisme de retransmission** pour les données non accusées.
 
-Peu importe la qualité d’un réseau, la perte de données se produit parfois. TCP fournit des méthodes pour gérer ces pertes de segments, notamment un mécanisme de retransmission pour les données non accusées.
+Les **numéros de séquence** (SEQ) et **d'accusé de réception** (ACK) sont utilisés ensemble pour confirmer la réception des octets de données. Le numéro SEQ identifie le premier octet de données dans le segment, tandis que le numéro ACK indique le prochain octet que le récepteur attend, un concept connu sous le nom d’**accusé de réception expectatif** (Expected Acknowledgment).
 
-Les numéros de séquence (SEQ) et d'accusé de réception (ACK) sont utilisés ensemble pour confirmer la réception des octets de données contenus dans les segments transmis. Le numéro SEQ identifie le premier octet de données dans le segment transmis. TCP utilise le numéro ACK renvoyé à la source pour indiquer le prochain octet que le récepteur s'attend à recevoir, ce qui est appelé accusé de réception expectatif.
+Avant des améliorations, TCP ne pouvait accuser réception que du prochain octet attendu. Par exemple, si l'hôte A envoie les segments 1 à 10 à l'hôte B, mais que seuls les segments 1, 2, 5 à 10 arrivent, l'hôte B enverra un ACK pour le segment 3. L'hôte A ne saura pas que le segment 4 est arrivé, entraînant une retransmission des segments 3 à 10, ce qui pourrait causer des retards et de la congestion.
 
-Avant des améliorations ultérieures, TCP ne pouvait accuser réception que du prochain octet attendu. Par exemple, si l'hôte A envoie les segments 1 à 10 à l'hôte B et que tous les segments arrivent sauf les segments 3 et 4, l'hôte B répondrait avec un accusé de réception spécifiant que le prochain segment attendu est le segment 3. L'hôte A n'aurait aucune idée des autres segments qui auraient pu arriver. L'hôte A renverrait donc les segments 3 à 10, ce qui pourrait entraîner des retards et des congestions.
+Aujourd'hui, de nombreux systèmes utilisent une fonctionnalité de TCP appelée **accusé de réception sélectif** (SACK - Selective Acknowledgment), négociée lors de la poignée de main en trois étapes. Si les deux hôtes prennent en charge SACK, le récepteur peut explicitement accuser réception des segments reçus, y compris ceux qui sont discontinus. Ainsi, l'émetteur ne retransmet que les données manquantes.
 
-Les systèmes d'exploitation hôtes d'aujourd'hui utilisent généralement une fonctionnalité optionnelle de TCP appelée accusé de réception sélectif (SACK), négociée lors de la poignée de main en trois étapes. Si les deux hôtes prennent en charge SACK, le récepteur peut explicitement accuser réception des segments reçus, y compris des segments discontinus. L'hôte émetteur n'aurait donc besoin de retransmettre que les données manquantes.
+TCP utilise également des minuteries pour déterminer combien de temps attendre avant de retransmettre un segment.
 
-TCP utilise également des minuteries pour savoir combien de temps attendre avant de retransmettre un segment. 
+```mermaid
+flowchart TD
+    A[Hôte A] -->|Envoie Segments 1-10| B[Hôte B]
+    B -->|Segments reçus| C{Accusé de Réception}
+    C -->|Segments 3 et 4 manquants| D[ACK 3]
+    A -->|Retransmet Segments 3-10| B
+```
 
-### Contrôle de Flux TCP - Taille de Fenêtre et Accusés de Réception
+## Contrôle de Flux TCP - Taille de Fenêtre et Accusés de Réception
 
-TCP fournit des mécanismes de contrôle de flux, qui désignent la quantité de données que la destination peut recevoir et traiter de manière fiable. Le contrôle de flux aide à maintenir la fiabilité de la transmission TCP en ajustant le taux d'écoulement des données entre la source et la destination pour une session donnée. Pour ce faire, l'en-tête TCP inclut un champ de 16 bits appelé taille de fenêtre.
+TCP intègre des mécanismes de **contrôle de flux** pour gérer la quantité de données que la destination peut recevoir et traiter de manière fiable. Ce contrôle de flux est crucial pour maintenir la fiabilité de la transmission TCP. Il ajuste le taux d'écoulement des données entre la source et la destination au cours d'une session.
 
-La taille de fenêtre détermine le nombre d'octets pouvant être envoyés avant d'attendre un accusé de réception. La taille de fenêtre est incluse dans chaque segment TCP afin que la destination puisse la modifier à tout moment en fonction de la disponibilité du tampon. La taille de fenêtre initiale est convenue lors de l'établissement de la session TCP pendant la poignée de main en trois étapes.
+L'en-tête TCP inclut un champ de 16 bits appelé **taille de fenêtre** (Window Size). Ce champ détermine le nombre d'octets qui peuvent être envoyés avant de recevoir un accusé de réception. La taille de fenêtre est incluse dans chaque segment TCP, permettant à la destination de l'ajuster selon la disponibilité de son tampon.
 
-En général, un hôte détermine la valeur de son champ MSS en soustrayant les en-têtes IP et TCP de l’unité de transmission maximale (MTU) Ethernet. Dans une interface Ethernet, la MTU par défaut est de 1500 octets. En soustrayant l’en-tête IPv4 de 20 octets et l’en-tête TCP de 20 octets, la taille MSS par défaut sera de 1460 octets.
+Lors de l'établissement d'une session TCP, la taille de fenêtre initiale est convenue pendant la **poignée de main en trois étapes** (Three-Way Handshake). Généralement, un hôte détermine la valeur de son champ **MSS** (Maximum Segment Size) en soustrayant les en-têtes IP et TCP de l’**unité de transmission maximale** (MTU - Maximum Transmission Unit). Pour une interface Ethernet, la MTU par défaut est de 1500 octets, ce qui donne une MSS par défaut de 1460 octets après soustraction des en-têtes.
 
-### Contrôle de Flux TCP - Évitement de Congestion
+```mermaid
+flowchart TD
+    A[MTU] -->|1500 octets| B[En-tête IPv4]
+    A -->|1500 octets| C[En-tête TCP]
+    B -->|20 octets| D[MSS]
+    C -->|20 octets| D
+```
 
-Lorsque la congestion se produit sur un réseau, cela entraîne la suppression de paquets par le routeur surchargé. Lorsque des paquets contenant des segments TCP n’atteignent pas leur destination, ils restent non accusés. En déterminant le taux d’envoi des segments TCP sans accusé de réception, la source peut évaluer un certain niveau de congestion réseau.
+## Contrôle de Flux TCP - Évitement de Congestion
 
-Lorsqu'il y a congestion, la retransmission des segments TCP perdus de la source peut aggraver la situation. Pour éviter et contrôler la congestion, TCP emploie plusieurs mécanismes de gestion de la congestion, minuteries et algorithmes.
+La congestion réseau se produit lorsque trop de paquets sont envoyés, entraînant la perte de certains d'entre eux. Les routeurs surchargés suppriment les paquets, ce qui fait que les segments TCP restent non accusés. En surveillant le taux d’envoi des segments TCP non accusés, la source peut évaluer le niveau de congestion sur le réseau.
 
-Si la source détermine que les segments TCP ne sont ni accusés de réception ni accusés dans un délai raisonnable, elle peut réduire le nombre d'octets qu'elle envoie avant de recevoir un accusé de réception. 
+La retransmission des segments TCP perdus peut aggraver la congestion. Pour éviter et contrôler la congestion, TCP emploie plusieurs mécanismes de gestion de la congestion, minuteries et algorithmes.
 
-Les numéros d'accusé de réception sont pour le prochain octet attendu et non pour un segment. La note importante ici est que c'est la source qui réduit le nombre d'octets non accusés qu'elle envoie, et non la taille de fenêtre déterminée par la destination.
+Si la source détermine que les segments TCP ne sont pas accusés dans un délai raisonnable, elle peut réduire le nombre d'octets envoyés avant de recevoir un accusé de réception. Il est important de noter que les numéros d'accusé de réception concernent le prochain octet attendu, et non un segment entier.
+
+```mermaid
+flowchart TD
+    A[Source TCP] -->|Envoie des segments| B{Segments non accusés?}
+    B -->|Oui| C[Réduit le taux d'envoi]
+    B -->|Non| D[Continue l'envoi]
+```
 
 ---
-
 ## Communication UDP
 
 ### Faible Surcharge UDP versus Fiabilité
 
-UDP est idéal pour les communications nécessitant rapidité, comme la VoIP. Ce protocole se distingue par son faible overhead et sa petite taille d’en-tête de datagramme, n’ayant pas de trafic de gestion de réseau. UDP n’établit pas de connexion avant d’envoyer des données, ce qui le rend efficace pour les transmissions nécessitant un envoi rapide.
+Le **User Datagram Protocol** (UDP) est particulièrement adapté aux communications nécessitant rapidité, comme la **VoIP** (Voice over IP). Ce protocole se distingue par sa faible surcharge (overhead) et sa petite taille d’en-tête de datagramme. En effet, UDP ne génère pas de trafic de gestion de réseau, ce qui le rend efficace pour les transmissions rapides.
 
-Lorsqu’un hôte émetteur doit envoyer des données audio et vidéo, ces données sont envoyées via UDP, sans nécessiter de connexion préalable.
+Contrairement au **Transmission Control Protocol** (TCP), UDP n’établit pas de connexion avant d’envoyer des données, ce qui permet une transmission plus rapide. Lorsqu’un hôte émetteur doit envoyer des données audio ou vidéo, celles-ci sont envoyées directement via UDP, sans nécessiter de connexion préalable.
+
+```mermaid
+flowchart TD
+    A[Hôte Émetteur] -->|Envoi de données| B[UDP]
+    B -->|Transmet sans connexion| C[Destinataire]
+```
 
 ### Réassemblage de Datagrammes UDP
 
-Tout comme les segments dans TCP, lorsque les datagrammes UDP sont envoyés à une destination, ils peuvent emprunter des chemins différents et arriver dans le désordre. Contrairement à TCP, UDP ne suit pas les numéros de séquence et ne peut pas réorganiser les datagrammes dans l’ordre de leur transmission.
+Tout comme les segments dans TCP, les datagrammes UDP peuvent emprunter des chemins différents et arriver dans le désordre à leur destination. Cependant, contrairement à TCP, UDP ne suit pas les numéros de séquence et ne peut pas réorganiser les datagrammes dans l’ordre de leur transmission.
 
-Ainsi, UDP réassemble simplement les données dans l’ordre dans lequel elles sont reçues et les transmet à l’application. Si la séquence des données est importante pour l’application, celle-ci doit gérer le bon ordre et déterminer comment les données doivent être traitées.
+UDP réassemble les données simplement dans l’ordre dans lequel elles sont reçues et les transmet à l’application. Si l’ordre des données est important pour l’application, celle-ci doit gérer la séquence et déterminer comment traiter les données.
+
+```mermaid
+flowchart TD
+    A[Datagramme 1] -->|Arrivée| B[Réception UDP]
+    A[Datagramme 2] -->|Arrivée| B
+    A[Datagramme 3] -->|Arrivée| B
+    B -->|Transmission| C[Application]
+```
 
 ### Processus et Requêtes des Serveurs UDP
 
-Tout comme les applications basées sur TCP, les applications serveur basées sur UDP se voient attribuer des numéros de port bien connus ou enregistrés. Lorsque ces applications fonctionnent sur un serveur, elles acceptent les données correspondant à leur numéro de port attribué. Lorsqu’UDP reçoit un datagramme destiné à l’un de ces ports, il transmet les données de l’application à l’application appropriée en fonction de son numéro de port.
+Comme pour les applications basées sur TCP, les applications serveur basées sur UDP se voient attribuer des **numéros de port** bien connus ou enregistrés. Lorsqu’elles fonctionnent sur un serveur, elles acceptent les données correspondant à leur numéro de port attribué.
 
-Par exemple, un serveur RADIUS utilise UDP pour écouter les requêtes sur le port 1812.
+Lorsque UDP reçoit un datagramme destiné à l’un de ces ports, il transmet les données de l’application à l’application appropriée selon son numéro de port. Par exemple, un serveur **RADIUS** utilise UDP pour écouter les requêtes sur le port 1812.
+
+```mermaid
+flowchart TD
+    A[Serveur UDP] -->|Port 1812| B[Application RADIUS]
+```
 
 ### Processus Clients UDP
 
-Tout comme pour TCP, la communication client-serveur est initiée par une application cliente qui demande des données à un processus serveur. Le processus client UDP sélectionne dynamiquement un numéro de port à partir de la plage de numéros de port et utilise ce numéro comme port source pour la conversation. Le port de destination est généralement le numéro de port bien connu ou enregistré attribué au processus serveur.
+La communication client-serveur avec UDP est initiée par une application cliente qui demande des données à un processus serveur. Le processus client UDP sélectionne dynamiquement un numéro de port à partir de la plage de numéros de port disponibles et utilise ce numéro comme port source pour la conversation. Le port de destination est généralement le numéro de port bien connu ou enregistré attribué au processus serveur.
 
-Après qu’un client a sélectionné les ports source et de destination, la même paire de ports est utilisée dans l’en-tête de tous les datagrammes de la transaction. Pour les données retournées au client par le serveur, les numéros de port source et de destination dans l’en-tête du datagramme sont inversés.
+Une fois que le client a sélectionné les ports source et de destination, cette paire de ports est utilisée dans l’en-tête de tous les datagrammes de la transaction. Pour les données retournées au client par le serveur, les numéros de port source et de destination dans l’en-tête du datagramme sont inversés.
 
-Par exemple, un client peut envoyer une requête DNS sur le port 53 et un autre client peut demander des services d'authentification RADIUS sur le port 1812.
+**Exemples :**
+- Un client peut envoyer une requête **DNS** sur le port 53.
+- Un autre client peut demander des services d'authentification **RADIUS** sur le port 1812.
+
+```mermaid
+flowchart TD
+    A[Client UDP] -->|Port Source| B[Requête DNS]
+    B -->|Port 53| C[Serveur DNS]
+
+    D[Client RADIUS] -->|Port Source| E[Requête RADIUS]
+    E -->|Port 1812| F[Serveur RADIUS]
+```
 
 ---
 

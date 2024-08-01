@@ -27,6 +27,14 @@
 
 ### Après-midi
 
+- Nous avons fait un Kahoot sur Transport Layer.  
+- Nous avons fait un kahoot sur  les méthode de switching.
+- Nous avons fait un Kahoot sur les puissances de 2 et le subnetting. [Lien vers le Kahoot](https://create.kahoot.it/details/c85deeee-4ff6-4629-9702-f2a33f9835dc)
 
+---
+
+## Vendredi, 02 août, 2024 
+### Matin
+### Après-midi
 
 ---
