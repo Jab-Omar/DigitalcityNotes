@@ -41,7 +41,14 @@
 ## Vendredi, 02 août, 2024 
 ### Matin
 - Nous avons parcouru des question d'examen. 
-- Nous avons commencer le module "Netacad 15 Application Layer". [Lien vers un résumé](https://omarjabali.be/Netacad/Couche-Application)
+- Nous avons commencé et fini le module "Netacad 15 Application Layer". [Lien vers un résumé](https://omarjabali.be/Netacad/Couche-Application)
+- Nous avons fait un kahoot sur la couche Transport.
+- Nous avons fait un kahoot sur la couche Application.  [Lien vers le Kahoot](https://create.kahoot.it/share/module-15-application-layer/97a6fcf8-81a0-4271-9e87-bba8c2caf75b)
+
+###  Après-midi
+- Nous avons commencé et fini le module "Netacad 16 Network Security Fundamentals". [Lien vers un résumé](https://omarjabali.be/Netacad/Fondamentaux de la Sécurité Réseau)
+
+
 
 
 ---
