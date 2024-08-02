@@ -46,9 +46,8 @@
 - Nous avons fait un kahoot sur la couche Application.  [Lien vers le Kahoot](https://create.kahoot.it/share/module-15-application-layer/97a6fcf8-81a0-4271-9e87-bba8c2caf75b)
 
 ###  Après-midi
-- Nous avons commencé et fini le module "Netacad 16 Network Security Fundamentals". [Lien vers un résumé](https://omarjabali.be/Netacad/Fondamentaux de la Sécurité Réseau)
-- Nous avons fait un kahoot sur le module  "Netacad 16 Network Security Fundamentals" [Lien ver sle kahoot](https://create.kahoot.it/share/module-16/036c5c31-cb52-438b-8c17-d1e9ebef7a52)
-
+- Nous avons commencé et fini le module "Netacad 16 Network Security Fundamentals". [Lien vers un résumé](https://omarjabali.be/Netacad/Fondamentaux-de-la-S%C3%A9curit%C3%A9-R%C3%A9seau)
+- Nous avons fait un kahoot sur le module  "Netacad 16 Network Security Fundamentals" [Lien vers le kahoot](https://create.kahoot.it/share/module-16/036c5c31-cb52-438b-8c17-d1e9ebef7a52)
 - Nous avons fait du self-study.
 
 
