@@ -47,8 +47,9 @@
 
 ###  Après-midi
 - Nous avons commencé et fini le module "Netacad 16 Network Security Fundamentals". [Lien vers un résumé](https://omarjabali.be/Netacad/Fondamentaux de la Sécurité Réseau)
+- Nous avons fait un kahoot sur le module  "Netacad 16 Network Security Fundamentals" [Lien ver sle kahoot](https://create.kahoot.it/share/module-16/036c5c31-cb52-438b-8c17-d1e9ebef7a52)
 
-
+- Nous avons fait du self-study.
 
 
 ---
