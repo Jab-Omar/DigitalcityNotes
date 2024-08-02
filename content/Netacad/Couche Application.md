@@ -128,11 +128,6 @@ graph TD
 **Note :** Les fichiers partagés peuvent être protégés par des droits d'auteur. Télécharger ou distribuer des fichiers protégés sans permission est illégal et peut entraîner des poursuites judiciaires.
 
 ---
-
-Bien sûr, voici une version simplifiée et plus concise de ce que vous avez appris dans le module :
-
----
-
 ## Résumé
 
 ### Couche Application, Présentation et Session

@@ -41,6 +41,7 @@
 ## Vendredi, 02 août, 2024 
 ### Matin
 - Nous avons parcouru des question d'examen. 
-- Nous avons commencer le module "Netacad 15 Application Layer".   
+- Nous avons commencer le module "Netacad 15 Application Layer". [Lien vers un résumé](https://omarjabali.be/Netacad/Couche-Application)
+
 
 ---
