@@ -40,6 +40,7 @@
 
 ## Vendredi, 02 août, 2024 
 ### Matin
-### Après-midi
+- Nous avons parcouru des question d'examen. 
+- Nous avons commencer le module "Netacad 15 Application Layer".   
 
 ---
