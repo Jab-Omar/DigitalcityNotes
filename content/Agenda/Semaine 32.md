@@ -8,6 +8,6 @@
 - Nous avons fait le kahoot de JP. 
 
 ### Après-midi
-- Olivier à présenté le powerpoint sur CCNA 1 module 17 - Small Network Topologies
+- Olivier à présenté le powerpoint sur CCNA 1 module 17 - Small Network Topologies.
+- Nous avons fait un kahoot. [Lien vers le kahoot](https://create.kahoot.it/share/module-17/27782266-8f07-47cd-be65-116d442a7ac2)
 - Olivier à présenté les powerpoints sur CCNA 2 v7 Module 1 - basic device configuration.
-- 
