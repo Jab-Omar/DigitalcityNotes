@@ -7,11 +7,11 @@ title: Bienvenu dans mes notes !
 
 ## Agenda
 
-| **Juillet**    |
-| -------------- |
-| [[Semaine 29]] |
-| [[Semaine 30]] |
-| [[Semaine 31]] |
+| **Juillet**    | **Août**       |
+| -------------- | -------------- |
+| [[Semaine 29]] | [[Semaine 32]] |
+| [[Semaine 30]] |                |
+| [[Semaine 31]] |                |
 
 ---
 ## Mes notes 

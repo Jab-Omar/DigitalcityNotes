@@ -1,6 +1,6 @@
 # Modèles et protocoles
 
-[[Configuration de base IOS]]⬅️ - [[#Ce Que J'ai Appris Dans Ce Module|Résumé]]⬇️ - [[Couche Physique]]➡️ - [Flashcard Anki]()🃏
+[[Configuration de base IOS]]⬅️ - [[#Ce Que J'ai Appris Dans Ce Module|Résumé]]⬇️ - [[Couche Physique]]➡️ - [Flashcard Anki](https://drive.google.com/file/d/1oyqbi4pTTAc7pzTfQ-V0IJi-5HmR7hDw/view?usp=sharing)🃏
 
 ---
 
