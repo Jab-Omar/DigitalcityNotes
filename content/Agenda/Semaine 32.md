@@ -8,5 +8,5 @@
 - Nous avons fait le kahoot de JP. 
 
 ### Après-midi
-- Olivier à présenter les powerpoints sur CCNA 2 v7 Modules 1 - basic device configuration.
+- Olivier à présenté les powerpoints sur CCNA 2 v7 Modules 1 - basic device configuration.
 - 
