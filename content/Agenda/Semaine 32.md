@@ -27,4 +27,14 @@
 - Olivier à présenté le PowerPoint officiel sur "CCNA 2 module 3 - Vlan's".  [Lien vers le PPT](https://docs.google.com/presentation/d/1Mvr1c22A5Zbbel5Rs1VS-CqhmF31elut/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true).
 
 ### Après-midi
+- Self-study.
+- On a fait un kahoot.
+- Olivier à présenté le PowerPoint officiel sur "CCNA 2 module 3 - Vlan's".  [Lien vers le PPT](https://docs.google.com/presentation/d/1Mvr1c22A5Zbbel5Rs1VS-CqhmF31elut/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true). Il est arrivé au module 5 STP. 
 
+---
+
+## Mercredi, 07 août, 2024 
+### Matin
+### Après-midi
+
+---
