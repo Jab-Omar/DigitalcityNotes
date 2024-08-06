@@ -23,7 +23,7 @@
 - On a fait des questions types d'examen.
 - Olivier à présenté le résumé sur "CCNA 2 module 2- Switching Concepts" qu'il a fait lui même. 
 - Olivier à présenté le PowerPoint officiel sur "CCNA 2 module 2- Switching Concepts". [Lien vers le PPT](https://docs.google.com/presentation/d/1_em0sYK7OJmrESyA-RwWSXfcW-B2SNnm/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true)?
-- Olivier à présenter le résumé du module "CCNA 2 module 3 - Vlan's" qu'il a fait lui même.
+- Olivier à présenté le résumé du module "CCNA 2 module 3 - Vlan's" qu'il a fait lui même.
 - Olivier à présenté le PowerPoint officiel sur "CCNA 2 module 3 - Vlan's".  [Lien vers le PPT](https://docs.google.com/presentation/d/1Mvr1c22A5Zbbel5Rs1VS-CqhmF31elut/edit?usp=sharing&ouid=107882186599568955026&rtpof=true&sd=true).
 
 ### Après-midi
