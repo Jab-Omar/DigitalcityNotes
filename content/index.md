@@ -13,18 +13,6 @@ title: Bienvenu dans mes notes !
 | [[Semaine 30]] |                |
 | [[Semaine 31]] |                |
 
----
-## Mes notes 
-### Netacad
-1. [[Les réseaux aujourd'hui]]
-2. [[Configuration de base IOS]]
-3. [[Modèles et protocoles]]
-4. [[Couche Physique]]
-14. [[Couche de Transport]]
-15. [[Couche Application]]
-16. [[Fondamentaux de la Sécurité Réseau]]
-### Autres
-- [[Liste des protocoles]]
 
 ---
 ## Liens
