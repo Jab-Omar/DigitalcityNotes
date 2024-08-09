@@ -55,3 +55,4 @@
 ### Matin
 - Nous avons fait du self-study.
 ### Après-midi
+- Nous avons fait du self-study
