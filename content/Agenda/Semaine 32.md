@@ -56,3 +56,6 @@
 - Nous avons fait du self-study.
 ### Après-midi
 - Nous avons fait du self-study
+- Nous avons fait le kahoot de Patrick.
+
+---
