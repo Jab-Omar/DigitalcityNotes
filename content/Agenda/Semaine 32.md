@@ -45,5 +45,13 @@
 - On a fait des Kahoot.
 
 
+---
+
+## Jeudi, 08 août, 2024 
+- J'était absent.
 
 ---
+## Vendredi, 09 août, 2024 
+### Matin
+- Nous avons fait du self-study.
+### Après-midi
